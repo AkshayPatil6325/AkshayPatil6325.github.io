@@ -43,12 +43,12 @@ nav ul {
 nav ul li a {
     color: #ffffff;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 17px;
     transition: color 0.3s ease;
 }
 
 nav ul li a:hover {
-    color: #80b8f9;
+    color: #f0a800;
 }
 
 /* -------- Main Content -------- */
