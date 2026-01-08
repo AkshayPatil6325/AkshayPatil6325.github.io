@@ -87,7 +87,7 @@ main {
 }
 
 /* -------- Content Pages -------- */
-.content-page h1 {
+.content-page h1,h2 {
     font-size: 30px;
     color: #0a2540;
     margin-bottom: 20px;
